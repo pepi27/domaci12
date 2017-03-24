@@ -1,0 +1,33 @@
+body { background-color:#e0e0e0; color:#f03030;}
+p { font-family: Georgia, serif; }
+span { font-weight:bold; font-size: 1.8ex; }
+
+#prva_sl {
+  vertical-align:text-top;
+  float:right;
+  border:2px solid #f03030;
+  padding: 5px;
+  margin:5px;
+}
+
+.slika {
+  height: 128px;
+  width: 128px;
+}
+
+.slikadiv {
+  float:left;
+  width:130px;
+  margin:2px;
+  padding:4px;
+  border:3px solid #f03030;
+  text-align:center;
+}
+
+.opis_slika {
+  float:right;
+  border:2px solid #f03030;
+  padding: 5px;
+  margin:5px;
+  max-width: 70%;
+}

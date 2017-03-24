@@ -1,0 +1,26 @@
+table th , #oboji_red{
+	color:#c3e263;
+	font-size: 16px;
+	
+}
+
+body {
+	font-family:Tahoma;
+	font-size: 10px;
+}
+
+table {
+	
+	background-color: #92938f;
+	font-size: 12px;
+}
+
+.parno {
+	background-color: #eaede1;
+	
+}
+
+table input {
+	font-family: arial;
+	font-style: italic;
+}
